@@ -19,7 +19,7 @@ collections:
     label: "Posts" # Used in the UI
     label_singular: "Post" # Used in the UI, ie: "New Post"
     description: >
-      Create awesome content here.
+      Welcome to my Blog!
     folder: "src/content/posts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "{{title}} — {{year}}/{{month}}/{{day}}"
