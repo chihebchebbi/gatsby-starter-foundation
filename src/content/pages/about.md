@@ -10,9 +10,9 @@ including coding, infrastructure management, system administration, and DevOps t
 Marwen is currently pursuing an engineering degree in computer science at TEK-UP university in Tunisia.
 During his two years at TEK-UP University, He earned multiple professional certifications.
 
-1. In penetration testing eJPT issued by eLearnSecurity company 
-2. In system administration RHCSA issued by RedHat company
-3. In networking HCIA Routing & Switching issued by Huawei company 
+- In penetration testing eJPT issued by eLearnSecurity company 
+- In system administration RHCSA issued by RedHat company
+- In networking HCIA Routing & Switching issued by Huawei company 
  
 He managed to win gold in AWS EGT JAM national cloud ompetition organized by Amazon company.
 He was rewarded by Huawei company at the HUAWEI ICT ceremony as he is among top 10 HCIA scores in Tunisia during the academic year 2020/2021.
