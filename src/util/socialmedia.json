@@ -1,12 +1,12 @@
 {
   "socialIcons": [
     {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/marwen.soula.77"
-    },
-    {
       "icon": "linkedin",
       "url": "https://www.linkedin.com/in/marwen-soula-2223381b6/"
+    },
+    {
+      "icon": "facebook",
+      "url": "https://www.facebook.com/marwen.soula.77"
     }
   ]
 }
