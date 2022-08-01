@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "Made by Marwen Soula",
     "siteUrl": "https://marwen-soula.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "/assets/logo.png",
+    "iconimage": "/assets/logo.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
