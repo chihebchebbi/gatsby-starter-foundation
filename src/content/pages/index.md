@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-Hi my name is Marwen Soula. This is my blog where i discuss Devops, memes and systems
+Hi my name is Marwen Soula. This is my blog where I discuss various fundamental and practical concepts of DevOps, including system architecture, provisioning, administration, and DevOps toolchains. 
