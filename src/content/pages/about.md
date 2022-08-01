@@ -13,7 +13,7 @@ During his two years at TEK-UP University, He earned multiple professional certi
 2. In system administration RHCSA issued by RedHat company
 3. In networking HCIA Routing & Switching issued by Huawei company 
  
-He managed to win gold in AWS EGT JAM national ccloud ompetition organized by Amazon company
+He managed to win gold in AWS EGT JAM national cloud ompetition organized by Amazon company
 He was rewarded by Huawei company at the HUAWEI ICT ceremony as he is among top 10 HCIA scores in Tunisia during the academic year 2020/2021.
-He managed to get a full sponsorship of the TEK-UP DIGI-TECH conference in Istanbul, where I was selected to be a speaker,
-so I expounded on the DevSecOps topic, how to integrate security into the DevOps process.                                      
+He managed to get a full sponsorship of the TEK-UP DIGI-TECH conference in Istanbul, where he was selected to be a speaker,
+so he expounded on the DevSecOps topic, how to integrate security into the DevOps process.                                      
