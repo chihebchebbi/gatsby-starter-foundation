@@ -7,7 +7,7 @@ featuredImage: /assets/Digi-Tech.jpeg
 ---
 
 ## Overview
-I had the honor of attending the TEK-UP DIGITECH CONFERENCE in Istanbul, 
+I had the honor yes of attending the TEK-UP DIGITECH CONFERENCE in Istanbul, 
 Where I got the chance to expound on the DevSecOps topic, How to integrate Security in the DevOps Process.
 
 To understand DevSecOps, let’s look at a common DevOps flow where things are automated and fast. 
